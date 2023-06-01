@@ -22,10 +22,10 @@ The code in this repository demonstrates how to fine-tune the CLIP model on a In
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-Python 3.6 or later
-PyTorch 1.7.1 or later
-transformers and clip libraries installed
-Access to a GPU is recommended but not required
+* Python 3.6 or later
+* PyTorch 1.7.1 or later
+* transformers and clip libraries installed
+* Access to a GPU is recommended but not required
 
 ## Dataset
 The dataset used in this example is the Indian Fashion Apparel Dataset, available on Kaggle. Modify the **image_path** and **json_path** with your own and you're good to go. 
