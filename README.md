@@ -1,7 +1,7 @@
-## Fine-tuning OpenAI's CLIP model Using Indian Fashion Dataset
+# Fine-tuning OpenAI's CLIP model Using Indian Fashion Dataset
 
 <p>
-This repository contains code for fine-tuning OpenAI's Contrastive Language–Image Pretraining (CLIP) model on a custom dataset. In this example, we use the Indian Fashion Apparel Dataset available on <a href="https://www.kaggle.com/datasets/validmodel/indo-fashion-dataset">Kaggle</a>.<p>.
+This repository contains code for fine-tuning OpenAI's Contrastive Language–Image Pretraining (CLIP) model on a custom dataset. In this example, we use the Indian Fashion Apparel Dataset available on <a href="https://www.kaggle.com/datasets/validmodel/indo-fashion-dataset">Kaggle</a>.
 </p>
 
 
